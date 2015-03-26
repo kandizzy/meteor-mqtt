@@ -1,6 +1,6 @@
 Package.describe({
   name: 'kandizzy:meteor-mqtt-fork',
-  version: '0.0.3',
+  version: '0.0.4',
   summary: 'a fork of spectrum:mqtt',
   git: 'https://github.com/kandizzy/meteor-mqtt',
   documentation: 'README.md'
